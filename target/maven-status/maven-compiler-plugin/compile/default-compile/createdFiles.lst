@@ -1,1 +1,7 @@
+service\AtendenteSuporteChain.class
+service\AtendimentoSuporteService.class
 ufes\principal\Principal.class
+model\Solicitacao.class
+service\ISuporteChain.class
+service\EspecialistaSuporteChain.class
+service\GerenteSuporteChain.class
